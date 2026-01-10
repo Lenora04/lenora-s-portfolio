@@ -8,7 +8,7 @@ I build end-to-end AI solutions, ranging from Multi-Agent Systems (LangChain) to
 ## 🛠 Featured Projects
 
 ### 🤖 [Agentic AI Virtual Stylist]([LINK_TO_REPO](https://github.com/Lenora04/virtual-stylist))
-**Tech:** LangChain, Google Gemini, Flask, Firebase, BeautifulSoup
+**Tech:** LangChain, Google Gemini, Flask, Firebase
 - A multi-agent system where specialized agents (Trend Analyzer, Outfit Generator, Product Search) collaborate to provide personalized fashion advice.
 - Features web-scraping for real-time trend analysis and a virtual closet.
 
