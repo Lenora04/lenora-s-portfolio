@@ -1,88 +1,127 @@
-# Lenora Ravindi Maraweera  
-### AI Engineer | Data Scientist | Intelligent Systems Builder  
+<div align="center">
 
-I am an Information Technology undergraduate specializing in **Data Science**, passionate about building **production-ready intelligent systems**. My work focuses on **Agentic AI orchestration, Predictive Modeling, and Real-Time Deployment**, transforming machine learning models into scalable, user-facing applications.
+# ✨ Lenora Ravindi Maraweera ✨  
+### 🤖 AI Engineer • 📊 Data Scientist • 🧠 Intelligent Systems Builder  
 
-I enjoy designing systems where data, automation, and human experience intersect. From multi-agent LLM pipelines to live analytics dashboards, I build with both engineering rigor and creative intent.
+🚀 Building production-grade AI systems that blend automation, creativity, and human experience.
 
 ---
 
+🌐 **Live Projects**  
+👗 Virtual Stylist → https://virtual-stylist-z7k3.onrender.com/  
+📈 Sales Predictor → https://clothing-sales-prediction-and-recommendation.streamlit.app/  
+
+💼 **GitHub** → https://github.com/Lenora04  
+
+</div>
+
+---
+
+<br>
+
+## 🌟 About Me
+
+I am an Information Technology undergraduate specializing in **Data Science**, passionate about building **scalable intelligent systems**. My interests span **Agentic AI orchestration, Predictive Analytics, and Real-Time Deployment**, transforming models into reliable, user-facing products.
+
+I love designing systems where data meets intuition, where automation feels human, and where engineering becomes storytelling through systems architecture.
+
+---
+
+<br>
+
 ## 🚀 Featured Projects
+
+---
 
 ### 🤖 Agentic AI Virtual Stylist  
 🔗 **Live Demo:** https://virtual-stylist-z7k3.onrender.com/  
 🔗 **Source Code:** https://github.com/Lenora04/virtual-stylist  
 
-**Overview:**  
-A full-stack **multi-agent AI platform** that delivers personalized outfit recommendations using real-time trend analysis, user preferences, and virtual closet data.
+> A full-stack **multi-agent AI platform** delivering personalized outfit recommendations using live trends, user preferences, and a virtual wardrobe.
 
-**Highlights:**  
-- Designed a **multi-agent architecture** using LangChain with specialized agents for:
-  - Trend analysis using live web search and scraping  
-  - Outfit generation using Google Gemini LLM  
-  - Product search and link validation  
-- Built secure authentication and persistent storage using **Firebase Authentication and Firestore**.  
-- Implemented a clean Flask REST API powering a responsive frontend UI.  
-- Deployed the system publicly with cloud hosting for recruiter-accessible demos.  
+✨ **What Makes It Special**
+- 🧠 Multi-agent orchestration using **LangChain**  
+- 🔍 Trend intelligence via live web search and scraping  
+- 🎨 LLM-powered outfit generation using **Google Gemini**  
+- 🔐 Secure authentication and cloud persistence with **Firebase**  
+- 🌐 Public cloud deployment for real-world access  
 
-**Tech:** Python, Flask, LangChain, Google Gemini API, Firebase, HTML/CSS, JavaScript  
+🛠 **Tech Stack**  
+`Python` `Flask` `LangChain` `Gemini API` `Firebase` `HTML/CSS` `JavaScript`  
 
 ---
+
+<br>
 
 ### 👗 Clothing Sales Prediction & Recommendation System  
 🔗 **Live App:** https://clothing-sales-prediction-and-recommendation.streamlit.app/  
 🔗 **Source Code:** https://github.com/Lenora04/Clothing-Sales-Prediction-and-Recommendation  
 
-**Overview:**  
-An end-to-end **data science application** for sales forecasting and intelligent inventory recommendations.
+> An end-to-end **data intelligence dashboard** for forecasting sales and optimizing inventory decisions.
 
-**Highlights:**  
-- Trained an **XGBoost regression model** to forecast product-level sales volume.  
-- Built a **hybrid recommendation engine** using TF-IDF vectorization and product metadata similarity.  
-- Designed an interactive analytics dashboard using **Streamlit** for business insights.  
-- Implemented data preprocessing pipelines and feature engineering workflows.  
+✨ **What Makes It Special**
+- 📈 **XGBoost regression** for sales forecasting  
+- 🧩 **Hybrid recommendation engine** using TF-IDF and metadata similarity  
+- 📊 Interactive analytics dashboard with **Streamlit**  
+- 🧪 Feature engineering and pipeline automation  
 
-**Tech:** Python, Scikit-learn, XGBoost, Pandas, Streamlit, NLP  
+🛠 **Tech Stack**  
+`Python` `Scikit-learn` `XGBoost` `NLP` `Streamlit` `Pandas`  
 
 ---
+
+<br>
 
 ### 🚗 Ride Cancellation Prediction  
 🔗 **Source Code:** https://github.com/Lenora04/Ride-Cancellation-Prediction  
 
-**Overview:**  
-A predictive classification system to identify ride cancellation risk with production-style evaluation metrics.
+> A predictive classification system designed to reduce booking failure risk using production-style modeling practices.
 
-**Highlights:**  
-- Achieved **94.02% model accuracy** using ensemble learning techniques.  
-- Addressed severe class imbalance using **SMOTE oversampling**.  
-- Designed a lightweight inference pipeline for real-time predictions.  
-- Conducted feature importance analysis and model validation.  
+✨ **What Makes It Special**
+- 🎯 Achieved **94.02% accuracy**  
+- ⚖️ Solved class imbalance using **SMOTE**  
+- ⚡ Real-time inference pipeline design  
+- 📉 Model evaluation and explainability  
 
-**Tech:** Python, Scikit-learn, SMOTE, Data Visualization  
-
----
-
-## 🛠 Technical Skills
-
-**AI & Machine Learning:**  
-Scikit-learn, XGBoost, PyTorch, LangChain, Hugging Face  
-
-**Large Language Models:**  
-Google Gemini API, Ollama (Phi-2), Prompt Engineering, Multi-Agent Orchestration  
-
-**Backend & Deployment:**  
-Flask, FastAPI, Streamlit, Firebase, REST APIs, Cloud Deployment  
-
-**Data & Analytics:**  
-Pandas, NumPy, Feature Engineering, Data Visualization, Model Evaluation  
-
-**Frontend:**  
-HTML5, CSS3, Tailwind CSS, JavaScript  
+🛠 **Tech Stack**  
+`Python` `Scikit-learn` `SMOTE` `Data Visualization`  
 
 ---
 
-## 🌱 What I'm Exploring Next
-- Advanced agent orchestration patterns  
-- MLOps pipelines and monitoring  
-- Scalable AI system architecture  
-- Responsible AI and optimization strategies  
+<br>
+
+## 🧰 Technical Toolkit
+
+### 🤖 AI & Machine Learning
+`Scikit-learn` `XGBoost` `PyTorch` `LangChain` `Hugging Face`
+
+### 🧠 Large Language Models
+`Google Gemini API` `Ollama (Phi-2)` `Prompt Engineering` `Multi-Agent Systems`
+
+### 🚀 Backend & Deployment
+`Flask` `FastAPI` `Streamlit` `Firebase` `REST APIs` `Cloud Hosting`
+
+### 📊 Data & Analytics
+`Pandas` `NumPy` `Feature Engineering` `Visualization` `Model Evaluation`
+
+### 🎨 Frontend
+`HTML5` `CSS3` `Tailwind CSS` `JavaScript`
+
+---
+
+<br>
+
+## 🌱 Currently Exploring
+
+🌌 Advanced agent coordination patterns  
+⚙️ MLOps pipelines and monitoring  
+📡 Scalable AI architectures  
+🧭 Responsible AI and optimization strategies  
+
+---
+
+<div align="center">
+
+✨ _Always building. Always learning. Always shipping._ ✨  
+
+</div>
